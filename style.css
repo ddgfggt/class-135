@@ -1,0 +1,26 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+}
+body{
+    background-size: cover;
+}
+#start,#object,#status{
+    font-size: 20px;
+}
+.footer{
+    bottom: 0; 
+    position: fixed;
+    text-align: center;
+    background-color: blue;
+    width: 100%;
+    font-size: 15px;
+    line-height: 3;
+    color: aliceblue;
+}
+canvas{
+    border: 2px solid black;
+    border-radius: 10px;
+box-shadow: 4px 5px 10px rgb(141, 141, 141);
+}
